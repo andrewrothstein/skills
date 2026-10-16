@@ -1,0 +1,34 @@
+{
+  "meeting_title": "Project Phoenix — Steering Committee Minutes",
+  "date": "2026-05-11",
+  "attendees": [
+    "Marcus Chen",
+    "Priya Raman",
+    "Leah Katz",
+    "Keiko Tanaka",
+    "Dana Whitfield",
+    "Tomás Alvarez"
+  ],
+  "decisions": [
+    "Increased the contingency budget by ten percent.",
+    "Deferred the tooling upgrade until after the audit.",
+    "Approved moving the launch date to the end of the quarter."
+  ],
+  "action_items": [
+    {
+      "owner": "Priya Raman",
+      "task": "Publish the updated onboarding runbook",
+      "due_date": "2026-06-01"
+    },
+    {
+      "owner": "Leah Katz",
+      "task": "Circulate the revised project timeline",
+      "due_date": "2026-06-25"
+    },
+    {
+      "owner": "Dana Whitfield",
+      "task": "Prepare the budget variance summary",
+      "due_date": "2026-06-17"
+    }
+  ]
+}

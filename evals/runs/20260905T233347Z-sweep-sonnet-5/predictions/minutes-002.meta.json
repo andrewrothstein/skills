@@ -1,0 +1,11 @@
+{
+  "case": "minutes-002",
+  "model": "claude-sonnet-5",
+  "exit_code": 0,
+  "cost_usd": 0.1380912,
+  "num_turns": 8,
+  "session_id": "50cba19f-6059-43f3-aa86-f76c79d39d12",
+  "is_error": false,
+  "duration_s": 17.3,
+  "produced_output": true
+}

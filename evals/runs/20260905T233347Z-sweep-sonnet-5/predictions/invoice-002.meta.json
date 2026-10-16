@@ -1,0 +1,11 @@
+{
+  "case": "invoice-002",
+  "model": "claude-sonnet-5",
+  "exit_code": 0,
+  "cost_usd": 0.14345970000000002,
+  "num_turns": 8,
+  "session_id": "39f3a3f7-71ed-4361-a8ee-7309209b9e26",
+  "is_error": false,
+  "duration_s": 24.9,
+  "produced_output": true
+}

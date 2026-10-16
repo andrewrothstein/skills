@@ -1,0 +1,11 @@
+{
+  "case": "invoice-002",
+  "model": "claude-fable-5",
+  "exit_code": 0,
+  "cost_usd": 0.515324,
+  "num_turns": 8,
+  "session_id": "5483a6a9-c4d0-4cf7-93a1-10b2bc64bf9a",
+  "is_error": false,
+  "duration_s": 24.5,
+  "produced_output": true
+}

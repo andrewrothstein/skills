@@ -1,0 +1,20 @@
+doc_kind: pdf
+family: invoice
+seed: 2
+tags:
+- pdf
+- invoice
+- tables
+- numbers
+scoring:
+  fields:
+    line_items:
+      align_keys:
+      - sku
+    line_items[].description:
+      comparator: fuzzy
+      threshold: 0.85
+    total:
+      weight: 3
+    invoice_number:
+      weight: 2

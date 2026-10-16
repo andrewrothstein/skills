@@ -1,0 +1,95 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "invoice_number",
+    "issue_date",
+    "due_date",
+    "vendor_name",
+    "bill_to_name",
+    "po_number",
+    "currency",
+    "line_items",
+    "subtotal",
+    "discount",
+    "tax",
+    "total"
+  ],
+  "properties": {
+    "invoice_number": {
+      "type": "string"
+    },
+    "issue_date": {
+      "type": "string",
+      "format": "date"
+    },
+    "due_date": {
+      "type": "string",
+      "format": "date"
+    },
+    "vendor_name": {
+      "type": "string"
+    },
+    "bill_to_name": {
+      "type": "string"
+    },
+    "po_number": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "null when the invoice shows no PO"
+    },
+    "currency": {
+      "type": "string"
+    },
+    "line_items": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "sku",
+          "description",
+          "quantity",
+          "unit_price",
+          "amount"
+        ],
+        "properties": {
+          "sku": {
+            "type": "string"
+          },
+          "description": {
+            "type": "string"
+          },
+          "quantity": {
+            "type": "number"
+          },
+          "unit_price": {
+            "type": "number"
+          },
+          "amount": {
+            "type": "number"
+          }
+        }
+      }
+    },
+    "subtotal": {
+      "type": "number"
+    },
+    "discount": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "description": "negative number as shown; null when absent"
+    },
+    "tax": {
+      "type": "number"
+    },
+    "total": {
+      "type": "number"
+    }
+  }
+}

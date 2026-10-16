@@ -1,0 +1,11 @@
+{
+  "case": "invoice-002",
+  "model": "claude-haiku-4-5",
+  "exit_code": 0,
+  "cost_usd": 0.07370260000000001,
+  "num_turns": 8,
+  "session_id": "ff5e1afd-49e4-4fdc-80d6-789ae652d803",
+  "is_error": false,
+  "duration_s": 29.7,
+  "produced_output": true
+}

@@ -1,0 +1,11 @@
+{
+  "case": "minutes-001",
+  "model": "claude-opus-4-8",
+  "exit_code": 0,
+  "cost_usd": 0.22423449999999998,
+  "num_turns": 8,
+  "session_id": "e8387e05-3a32-414c-8f23-683d5acd3b8f",
+  "is_error": false,
+  "duration_s": 22.6,
+  "produced_output": true
+}

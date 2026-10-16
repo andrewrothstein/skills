@@ -1,0 +1,11 @@
+{
+  "case": "qbr-002",
+  "model": "claude-opus-4-6",
+  "exit_code": 0,
+  "cost_usd": 0.2015905,
+  "num_turns": 8,
+  "session_id": "7ed1c46b-70dd-4724-832b-9bec5a535038",
+  "is_error": false,
+  "duration_s": 31.5,
+  "produced_output": true
+}

@@ -1,0 +1,19 @@
+doc_kind: docx
+family: minutes
+seed: 2
+tags:
+- docx
+- lists
+- dates
+- nulls
+scoring:
+  fields:
+    action_items:
+      align_keys:
+      - task
+    action_items[].task:
+      comparator: fuzzy
+      threshold: 0.85
+    decisions[]:
+      comparator: fuzzy
+      threshold: 0.85

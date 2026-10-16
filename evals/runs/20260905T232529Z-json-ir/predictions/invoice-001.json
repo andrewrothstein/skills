@@ -1,0 +1,43 @@
+{
+  "invoice_number": "INV-2026-5179",
+  "issue_date": "2026-01-16",
+  "due_date": "2026-02-16",
+  "vendor_name": "Northwind Traders",
+  "bill_to_name": "Meridian Health Partners",
+  "po_number": null,
+  "currency": "USD",
+  "line_items": [
+    {
+      "sku": "SKU-6007",
+      "description": "Whiteboard, magnetic, 6x4 ft",
+      "quantity": 8,
+      "unit_price": 20.53,
+      "amount": 164.24
+    },
+    {
+      "sku": "SKU-4118",
+      "description": "Toner cartridge, high yield black",
+      "quantity": 7,
+      "unit_price": 199.28,
+      "amount": 1394.96
+    },
+    {
+      "sku": "SKU-2210",
+      "description": "Wireless ergonomic keyboard",
+      "quantity": 1,
+      "unit_price": 315.56,
+      "amount": 315.56
+    },
+    {
+      "sku": "SKU-1042",
+      "description": "A4 recycled copy paper, 500 sheets",
+      "quantity": 5,
+      "unit_price": 326.92,
+      "amount": 1634.60
+    }
+  ],
+  "subtotal": 3509.36,
+  "discount": -332.28,
+  "tax": 301.82,
+  "total": 3478.90
+}

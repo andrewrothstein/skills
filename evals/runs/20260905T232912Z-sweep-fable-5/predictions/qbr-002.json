@@ -1,0 +1,28 @@
+{
+  "company": "Foxglove Analytics",
+  "quarter": "Q4",
+  "year": 2026,
+  "presenter": "Dana Whitfield",
+  "metrics": [
+    {
+      "name": "Gross margin",
+      "value": "21%",
+      "yoy_change_pct": -3.6
+    },
+    {
+      "name": "Active users",
+      "value": "16K",
+      "yoy_change_pct": 33.9
+    },
+    {
+      "name": "New logos",
+      "value": "35",
+      "yoy_change_pct": 16.0
+    }
+  ],
+  "risks": [
+    "Single-sourced data provider for enrichment",
+    "Hiring pipeline behind plan for support engineers",
+    "Renewal concentration in the top three accounts"
+  ]
+}

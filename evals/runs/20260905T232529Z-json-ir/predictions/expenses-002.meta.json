@@ -1,0 +1,11 @@
+{
+  "case": "expenses-002",
+  "model": null,
+  "exit_code": 0,
+  "cost_usd": 0.513506,
+  "num_turns": 8,
+  "session_id": "0c666475-42ce-4a8b-988a-e77b582fa722",
+  "is_error": false,
+  "duration_s": 25.0,
+  "produced_output": true
+}

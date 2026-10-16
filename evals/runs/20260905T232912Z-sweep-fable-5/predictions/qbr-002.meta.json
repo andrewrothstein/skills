@@ -1,0 +1,11 @@
+{
+  "case": "qbr-002",
+  "model": "claude-fable-5",
+  "exit_code": 0,
+  "cost_usd": 0.484877,
+  "num_turns": 8,
+  "session_id": "c97bf595-efec-4ba5-be9f-61b29d3a79b9",
+  "is_error": false,
+  "duration_s": 21.6,
+  "produced_output": true
+}

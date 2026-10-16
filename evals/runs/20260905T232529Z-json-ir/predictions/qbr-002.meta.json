@@ -1,0 +1,11 @@
+{
+  "case": "qbr-002",
+  "model": null,
+  "exit_code": 0,
+  "cost_usd": 0.491141,
+  "num_turns": 8,
+  "session_id": "be1ca236-4a9d-4028-95c0-6235f0908c53",
+  "is_error": false,
+  "duration_s": 24.1,
+  "produced_output": true
+}

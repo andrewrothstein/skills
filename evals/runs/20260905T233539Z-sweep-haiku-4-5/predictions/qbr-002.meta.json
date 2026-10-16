@@ -1,0 +1,11 @@
+{
+  "case": "qbr-002",
+  "model": "claude-haiku-4-5",
+  "exit_code": 0,
+  "cost_usd": 0.056445,
+  "num_turns": 9,
+  "session_id": "7c242345-8726-441e-a3b8-3c421a378735",
+  "is_error": false,
+  "duration_s": 34.6,
+  "produced_output": true
+}

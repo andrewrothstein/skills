@@ -1,0 +1,17 @@
+doc_kind: xlsx
+family: expenses
+seed: 1
+tags:
+- xlsx
+- tables
+- dates
+- totals-row
+scoring:
+  fields:
+    expenses:
+      align_keys:
+      - date
+      - employee
+      - amount
+    total_amount:
+      weight: 3
