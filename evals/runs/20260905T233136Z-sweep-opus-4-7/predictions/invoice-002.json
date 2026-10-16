@@ -1,0 +1,43 @@
+{
+  "invoice_number": "INV-2026-2390",
+  "issue_date": "2026-03-27",
+  "due_date": "2026-04-27",
+  "vendor_name": "Acme Industrial Supply",
+  "bill_to_name": "Meridian Health Partners",
+  "po_number": "PO-97782",
+  "currency": "USD",
+  "line_items": [
+    {
+      "sku": "SKU-3305",
+      "description": "Standing desk converter, 32in",
+      "quantity": 10,
+      "unit_price": 309.11,
+      "amount": 3091.10
+    },
+    {
+      "sku": "SKU-5521",
+      "description": "Conference speakerphone",
+      "quantity": 7,
+      "unit_price": 290.20,
+      "amount": 2031.40
+    },
+    {
+      "sku": "SKU-2210",
+      "description": "Wireless ergonomic keyboard",
+      "quantity": 12,
+      "unit_price": 388.23,
+      "amount": 4658.76
+    },
+    {
+      "sku": "SKU-1042",
+      "description": "A4 recycled copy paper, 500 sheets",
+      "quantity": 9,
+      "unit_price": 427.63,
+      "amount": 3848.67
+    }
+  ],
+  "subtotal": 13629.93,
+  "discount": null,
+  "tax": 1294.84,
+  "total": 14924.77
+}

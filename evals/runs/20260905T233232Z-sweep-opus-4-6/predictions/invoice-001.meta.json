@@ -1,0 +1,11 @@
+{
+  "case": "invoice-001",
+  "model": "claude-opus-4-6",
+  "exit_code": 0,
+  "cost_usd": 0.33299200000000007,
+  "num_turns": 8,
+  "session_id": "38911495-1648-41de-84d4-ff5dcd68bf65",
+  "is_error": false,
+  "duration_s": 32.8,
+  "produced_output": true
+}

@@ -1,0 +1,11 @@
+{
+  "case": "minutes-001",
+  "model": null,
+  "exit_code": 0,
+  "cost_usd": 0.496225,
+  "num_turns": 8,
+  "session_id": "3f6891a7-4b01-4fad-98b7-f58dbe3f2fe9",
+  "is_error": false,
+  "duration_s": 22.6,
+  "produced_output": true
+}

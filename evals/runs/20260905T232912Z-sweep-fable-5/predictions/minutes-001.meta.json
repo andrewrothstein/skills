@@ -1,0 +1,11 @@
+{
+  "case": "minutes-001",
+  "model": "claude-fable-5",
+  "exit_code": 0,
+  "cost_usd": 0.50081,
+  "num_turns": 8,
+  "session_id": "d43025bb-1ae9-43b5-a44a-82f20c63c953",
+  "is_error": false,
+  "duration_s": 23.3,
+  "produced_output": true
+}

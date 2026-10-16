@@ -1,0 +1,16 @@
+doc_kind: pptx
+family: qbr
+seed: 1
+tags:
+- pptx
+- tables
+- nulls
+- verbatim
+scoring:
+  fields:
+    metrics:
+      align_keys:
+      - name
+    risks[]:
+      comparator: fuzzy
+      threshold: 0.85

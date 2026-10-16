@@ -1,0 +1,11 @@
+{
+  "case": "qbr-001",
+  "model": "claude-sonnet-5",
+  "exit_code": 0,
+  "cost_usd": 0.1430967,
+  "num_turns": 8,
+  "session_id": "acf76f67-0596-4385-a63e-51ca6aea9f39",
+  "is_error": false,
+  "duration_s": 21.9,
+  "produced_output": true
+}

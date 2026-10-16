@@ -1,0 +1,32 @@
+{
+  "company": "Harborview Ventures",
+  "quarter": "Q4",
+  "year": 2026,
+  "presenter": "Priya Raman",
+  "metrics": [
+    {
+      "name": "Net revenue retention",
+      "value": "75%",
+      "yoy_change_pct": 8.0
+    },
+    {
+      "name": "New logos",
+      "value": "59",
+      "yoy_change_pct": 7.2
+    },
+    {
+      "name": "Active users",
+      "value": "125K",
+      "yoy_change_pct": 19.1
+    },
+    {
+      "name": "Gross margin",
+      "value": "135%",
+      "yoy_change_pct": 23.7
+    }
+  ],
+  "risks": [
+    "Currency exposure on EMEA contracts",
+    "Single-sourced data provider for enrichment"
+  ]
+}

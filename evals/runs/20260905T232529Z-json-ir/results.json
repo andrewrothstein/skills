@@ -1,0 +1,321 @@
+{
+  "timestamp": "2026-09-05T23:26:21+00:00",
+  "label": "json-ir",
+  "model": null,
+  "git_sha": "80ff1ab",
+  "n_cases": 8,
+  "aggregate": {
+    "macro_field_accuracy": 1.0,
+    "micro_field_accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "exact_match_rate": 1.0
+  },
+  "by_doc_kind": {
+    "docx": {
+      "cases": 2,
+      "macro_field_accuracy": 1.0,
+      "micro_field_accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "pdf": {
+      "cases": 2,
+      "macro_field_accuracy": 1.0,
+      "micro_field_accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "pptx": {
+      "cases": 2,
+      "macro_field_accuracy": 1.0,
+      "micro_field_accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "xlsx": {
+      "cases": 2,
+      "macro_field_accuracy": 1.0,
+      "micro_field_accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    }
+  },
+  "by_tag": {
+    "dates": {
+      "cases": 4,
+      "macro_field_accuracy": 1.0,
+      "micro_field_accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "docx": {
+      "cases": 2,
+      "macro_field_accuracy": 1.0,
+      "micro_field_accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "invoice": {
+      "cases": 2,
+      "macro_field_accuracy": 1.0,
+      "micro_field_accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "lists": {
+      "cases": 2,
+      "macro_field_accuracy": 1.0,
+      "micro_field_accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "negatives": {
+      "cases": 1,
+      "macro_field_accuracy": 1.0,
+      "micro_field_accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "nulls": {
+      "cases": 5,
+      "macro_field_accuracy": 1.0,
+      "micro_field_accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "numbers": {
+      "cases": 2,
+      "macro_field_accuracy": 1.0,
+      "micro_field_accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "pdf": {
+      "cases": 2,
+      "macro_field_accuracy": 1.0,
+      "micro_field_accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "pptx": {
+      "cases": 2,
+      "macro_field_accuracy": 1.0,
+      "micro_field_accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "tables": {
+      "cases": 6,
+      "macro_field_accuracy": 1.0,
+      "micro_field_accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "totals-row": {
+      "cases": 2,
+      "macro_field_accuracy": 1.0,
+      "micro_field_accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "verbatim": {
+      "cases": 2,
+      "macro_field_accuracy": 1.0,
+      "micro_field_accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "xlsx": {
+      "cases": 2,
+      "macro_field_accuracy": 1.0,
+      "micro_field_accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    }
+  },
+  "cases": [
+    {
+      "case": "expenses-001",
+      "tags": [
+        "xlsx",
+        "tables",
+        "dates",
+        "totals-row"
+      ],
+      "doc_kind": "xlsx",
+      "error": null,
+      "field_accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "exact_match": true,
+      "statuses": {
+        "correct": 28
+      },
+      "leaves": []
+    },
+    {
+      "case": "expenses-002",
+      "tags": [
+        "xlsx",
+        "tables",
+        "dates",
+        "totals-row"
+      ],
+      "doc_kind": "xlsx",
+      "error": null,
+      "field_accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "exact_match": true,
+      "statuses": {
+        "correct": 32
+      },
+      "leaves": []
+    },
+    {
+      "case": "invoice-001",
+      "tags": [
+        "pdf",
+        "invoice",
+        "tables",
+        "numbers",
+        "negatives",
+        "nulls"
+      ],
+      "doc_kind": "pdf",
+      "error": null,
+      "field_accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "exact_match": true,
+      "statuses": {
+        "correct": 30,
+        "both_null": 1
+      },
+      "leaves": []
+    },
+    {
+      "case": "invoice-002",
+      "tags": [
+        "pdf",
+        "invoice",
+        "tables",
+        "numbers"
+      ],
+      "doc_kind": "pdf",
+      "error": null,
+      "field_accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "exact_match": true,
+      "statuses": {
+        "correct": 30,
+        "both_null": 1
+      },
+      "leaves": []
+    },
+    {
+      "case": "minutes-001",
+      "tags": [
+        "docx",
+        "lists",
+        "dates",
+        "nulls"
+      ],
+      "doc_kind": "docx",
+      "error": null,
+      "field_accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "exact_match": true,
+      "statuses": {
+        "correct": 17
+      },
+      "leaves": []
+    },
+    {
+      "case": "minutes-002",
+      "tags": [
+        "docx",
+        "lists",
+        "dates",
+        "nulls"
+      ],
+      "doc_kind": "docx",
+      "error": null,
+      "field_accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "exact_match": true,
+      "statuses": {
+        "correct": 20
+      },
+      "leaves": []
+    },
+    {
+      "case": "qbr-001",
+      "tags": [
+        "pptx",
+        "tables",
+        "nulls",
+        "verbatim"
+      ],
+      "doc_kind": "pptx",
+      "error": null,
+      "field_accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "exact_match": true,
+      "statuses": {
+        "correct": 18
+      },
+      "leaves": []
+    },
+    {
+      "case": "qbr-002",
+      "tags": [
+        "pptx",
+        "tables",
+        "nulls",
+        "verbatim"
+      ],
+      "doc_kind": "pptx",
+      "error": null,
+      "field_accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "exact_match": true,
+      "statuses": {
+        "correct": 16
+      },
+      "leaves": []
+    }
+  ]
+}

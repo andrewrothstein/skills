@@ -1,0 +1,11 @@
+{
+  "case": "expenses-002",
+  "model": "claude-opus-4-8",
+  "exit_code": 0,
+  "cost_usd": 0.231992,
+  "num_turns": 8,
+  "session_id": "fb5e8377-21cb-4ab4-b104-3e70ce1a367d",
+  "is_error": false,
+  "duration_s": 24.6,
+  "produced_output": true
+}

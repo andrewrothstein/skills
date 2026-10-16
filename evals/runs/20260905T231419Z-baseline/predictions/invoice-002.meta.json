@@ -1,0 +1,11 @@
+{
+  "case": "invoice-002",
+  "model": null,
+  "exit_code": 0,
+  "cost_usd": 0.498835,
+  "num_turns": 8,
+  "session_id": "53ee54d7-ffcb-4f94-85f6-0e3ef55096bf",
+  "is_error": false,
+  "duration_s": 24.7,
+  "produced_output": true
+}

@@ -1,0 +1,31 @@
+{
+  "meeting_title": "Project Phoenix — Steering Committee Minutes",
+  "date": "2026-03-26",
+  "attendees": [
+    "Marcus Chen",
+    "Sam O'Donnell",
+    "Keiko Tanaka",
+    "Leah Katz"
+  ],
+  "decisions": [
+    "Increased the contingency budget by ten percent.",
+    "Agreed to consolidate reporting into a single weekly dashboard."
+  ],
+  "action_items": [
+    {
+      "owner": "Marcus Chen",
+      "task": "Publish the updated onboarding runbook",
+      "due_date": "2026-04-14"
+    },
+    {
+      "owner": "Leah Katz",
+      "task": "Close out the remaining migration tickets",
+      "due_date": "2026-04-06"
+    },
+    {
+      "owner": "Keiko Tanaka",
+      "task": "Schedule security review with the platform team",
+      "due_date": "2026-04-28"
+    }
+  ]
+}

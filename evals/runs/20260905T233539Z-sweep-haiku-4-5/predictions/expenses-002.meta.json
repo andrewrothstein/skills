@@ -1,0 +1,11 @@
+{
+  "case": "expenses-002",
+  "model": "claude-haiku-4-5",
+  "exit_code": 0,
+  "cost_usd": 0.07518620000000001,
+  "num_turns": 8,
+  "session_id": "9eb5d00b-8e9a-4935-b072-690e7b1cad4b",
+  "is_error": false,
+  "duration_s": 31.1,
+  "produced_output": true
+}

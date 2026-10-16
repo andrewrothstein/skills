@@ -1,0 +1,44 @@
+{
+  "report_month": "2026-01",
+  "department": "Field Operations",
+  "currency": "USD",
+  "expenses": [
+    {
+      "date": "2026-01-02",
+      "employee": "Dana Whitfield",
+      "category": "Office Supplies",
+      "amount": 855.01
+    },
+    {
+      "date": "2026-01-12",
+      "employee": "Leah Katz",
+      "category": "Training",
+      "amount": 188.78
+    },
+    {
+      "date": "2026-01-18",
+      "employee": "Leah Katz",
+      "category": "Meals",
+      "amount": 373.13
+    },
+    {
+      "date": "2026-01-20",
+      "employee": "Tomás Alvarez",
+      "category": "Training",
+      "amount": 663.42
+    },
+    {
+      "date": "2026-01-20",
+      "employee": "Priya Raman",
+      "category": "Travel",
+      "amount": 512.71
+    },
+    {
+      "date": "2026-01-24",
+      "employee": "Viktor Ilyin",
+      "category": "Office Supplies",
+      "amount": 635.84
+    }
+  ],
+  "total_amount": 3228.89
+}

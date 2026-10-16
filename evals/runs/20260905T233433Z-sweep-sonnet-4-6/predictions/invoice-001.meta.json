@@ -1,0 +1,11 @@
+{
+  "case": "invoice-001",
+  "model": "claude-sonnet-4-6",
+  "exit_code": 0,
+  "cost_usd": 0.19870529999999997,
+  "num_turns": 8,
+  "session_id": "736c61d7-362f-481e-abd2-55e29a3cf16d",
+  "is_error": false,
+  "duration_s": 35.6,
+  "produced_output": true
+}

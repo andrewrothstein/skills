@@ -1,0 +1,15 @@
+{
+  "report_month": "2026-05",
+  "department": "Finance",
+  "currency": "USD",
+  "expenses": [
+    {"date": "2026-05-05", "employee": "Priya Raman", "category": "Software", "amount": 441.75},
+    {"date": "2026-05-15", "employee": "Keiko Tanaka", "category": "Travel", "amount": 811.62},
+    {"date": "2026-05-17", "employee": "Dana Whitfield", "category": "Meals", "amount": 212.23},
+    {"date": "2026-05-18", "employee": "Priya Raman", "category": "Training", "amount": 156.31},
+    {"date": "2026-05-21", "employee": "Marcus Chen", "category": "Office Supplies", "amount": 896.31},
+    {"date": "2026-05-26", "employee": "Dana Whitfield", "category": "Hardware", "amount": 36.75},
+    {"date": "2026-05-28", "employee": "Viktor Ilyin", "category": "Training", "amount": 268.95}
+  ],
+  "total_amount": 2823.92
+}
