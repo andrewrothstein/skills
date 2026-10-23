@@ -1,0 +1,7 @@
+{
+  "name": "andrewrothstein-skills",
+  "version": "0.1.0",
+  "description": "Ansible role maintenance skills: find outdated roles, generate and verify checksums, upgrade a role end to end, backfill and audit history",
+  "author": { "name": "Andrew Rothstein" },
+  "homepage": "https://github.com/andrewrothstein/skills"
+}
