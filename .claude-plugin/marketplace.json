@@ -1,0 +1,16 @@
+{
+  "name": "andrewrothstein-skills",
+  "owner": {
+    "name": "Andrew Rothstein"
+  },
+  "plugins": [
+    {
+      "name": "andrewrothstein-skills",
+      "source": ".",
+      "description": "Ansible role maintenance skills"
+    }
+  ],
+  "metadata": {
+    "description": "Claude Code skills for maintaining the andrewrothstein/ansible-* roles"
+  }
+}
